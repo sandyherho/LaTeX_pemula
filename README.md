@@ -1,3 +1,3 @@
-# Belajar LaTex
+# Belajar LaTeX
 
-Ini merupakan dokumentasi belajar LaTex saya dari nol.
+Ini merupakan dokumentasi belajar LaTeX saya dari nol.
